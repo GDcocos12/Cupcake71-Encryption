@@ -12,3 +12,5 @@ Cupcake71 encoder/decoder written in c++
 * `e` - Adds 25 to cupcake value
 * `7` - Adds 30 to cupcake value
 * `1` - Stores the cupcake value and resets it to zero
+
+*WARNING: Dont use spaces!!!!*
